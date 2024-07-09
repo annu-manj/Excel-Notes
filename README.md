@@ -6,7 +6,10 @@
 **$C$2** - both row and column are fixed.<br>
 
 
-# IF FORMULA 
+**IF FORMULA**
+
+IF(logical_test,[value_if_true],[value_if_false])<br>
+
 
 
 
